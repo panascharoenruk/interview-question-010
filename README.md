@@ -169,6 +169,12 @@ Tables:
 
 ---
 
+# Validates
+
+* User can't submit test result if name input is empty.
+* Name input will become disabled after user submited test result.
+---
+
 # Author
 
 Panas Charoenruk
